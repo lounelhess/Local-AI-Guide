@@ -32,7 +32,7 @@ This project is a detailed report on deploying local AI for text and graphics wh
 **The CUDA Moment of Madness:**
 When standard optimization methods failed, ChatGPT (in an attempt to help) suggested I rewrite the CUDA source code. At that moment, I realized the line between reality and absurdity had blurred. If you're being advised to patch NVIDIA driver source code, just know you've hit your hardware's absolute limit.
 
-**Result:** [Johnny_Silverhand.jsonl](./JSasist.JsonL)
+**Result:** [Johnny_Silverhand.jsonl](./JSasist.JsonL) (NSFW - contains profanity)
 
 **Training Challenges:**
 Fine-tuning (LoRA) for a specific character requires at least 12 GB of VRAM. Attempts to find free compute power via Oracle Cloud or university labs failed (Oracle only provides CPU/RAM, which is useless for neural networks).
@@ -59,7 +59,7 @@ Fine-tuning (LoRA) for a specific character requires at least 12 GB of VRAM. Att
 ## ⚖️ Conclusion: Why It Matters
 Local deployment is the only working way to get AI without censorship. I believe the internet was originally created as a territory of freedom and should remain so. Even if using "raw" models seems "silly" or unsafe to corporations, the ability to communicate with an AI without a babysitter or filters is worth every hour spent on configuration. Freedom of speech and creativity is more important than the convenience of cloud services.
 
-## 🖼 Gallery
+## 🖼 Gallery (NSFW)
 ![AI Art 1](AIimg/photo1.jpg)
 ![AI Art 2](AIimg/photo2.jpg)
 ![AI Art 3](AIimg/photo3.jpg)
