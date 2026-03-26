@@ -1,3 +1,6 @@
+> ⚠️ **WARNING: This repository contains NSFW content (nudity) and strong language.**
+> The Johnny Silverhand dataset and generated images include profanity and adult themes consistent with the character's persona and uncensored AI exploration. **Viewer discretion is advised.**
+
 [Read this in Russian / Читать на русском](README_RU.md)
 # 🦾 Local LLM & SD Deployment Guide: The Path to Uncensored AI
 
