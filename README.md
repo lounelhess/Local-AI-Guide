@@ -57,7 +57,7 @@ Fine-tuning (LoRA) for a specific character requires at least 12 GB of VRAM. Att
 Local deployment is the only working way to get AI without censorship. I believe the internet was originally created as a territory of freedom and should remain so. Even if using "raw" models seems "silly" or unsafe to corporations, the ability to communicate with an AI without a babysitter or filters is worth every hour spent on configuration. Freedom of speech and creativity is more important than the convenience of cloud services.
 
 ## 🖼 Gallery
-![AI Art 1](Alimg/photo1.jpg)
-![AI Art 2](Alimg/photo2.jpg)
-![AI Art 3](Alimg/photo3.jpg)
-![AI Art 4](Alimg/photo4.jpg)
+![AI Art 1](AIimg/photo1.jpg)
+![AI Art 2](AIimg/photo2.jpg)
+![AI Art 3](AIimg/photo3.jpg)
+![AI Art 4](AIimg/photo4.jpg)
