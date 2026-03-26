@@ -29,7 +29,7 @@ This project is a detailed report on deploying local AI for text and graphics wh
 **The CUDA Moment of Madness:**
 When standard optimization methods failed, ChatGPT (in an attempt to help) suggested I rewrite the CUDA source code. At that moment, I realized the line between reality and absurdity had blurred. If you're being advised to patch NVIDIA driver source code, just know you've hit your hardware's absolute limit.
 
-**Result:** [Johnny_Silverhand.jsonl](./JSasist.jsonl)
+**Result:** [Johnny_Silverhand.jsonl](./JSasist.JsonL)
 
 **Training Challenges:**
 Fine-tuning (LoRA) for a specific character requires at least 12 GB of VRAM. Attempts to find free compute power via Oracle Cloud or university labs failed (Oracle only provides CPU/RAM, which is useless for neural networks).
